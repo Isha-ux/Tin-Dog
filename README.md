@@ -1,6 +1,6 @@
 # Tin-Dog
 
-<p>TinDog is a website that helps dog owners find friends for their furry friends.</p>
+<p> TinDog is a website that helps dog owners find friends for their furry friends.</p>
 
 <h3>Features</h3>
 <ul>
