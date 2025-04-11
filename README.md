@@ -4,7 +4,7 @@
 
 <h3>Features</h3>
 <ul>
-<li>>Find dog friends nearby
+<li>Find dog friends nearby
 <li>Create a dog profile
  <li>Connect with other dog owners
 </ul>
